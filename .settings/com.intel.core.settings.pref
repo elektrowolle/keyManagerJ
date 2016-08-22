@@ -1,0 +1,4 @@
+#
+#Sat Jun 25 17:45:58 CEST 2016
+com.intel.core.target.selection="edison"
+com.intel.core.project.type.id="com.intel.iotdevkit.java.iotJavaNature"
